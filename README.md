@@ -32,19 +32,19 @@ The repository is structured to provide clear examples of real-world coding prob
 
  
 ## Projects Included
-1. Mystery word  
+1. [Mystery word](#https://github.com/Triba1-Chief/Code_Demos/blob/main/Mystery_word.zip)  
    *Decode the hidden word from a mix of characters and words using logic and analysis.*
    
-2. QRCode builder  
+2. [QRCode builder](#https://github.com/Triba1-Chief/Code_Demos/blob/main/QRCode_builder.zip)  
    *Design and validate QR codes by processing binary-encoded information.*
    
-3. Chess game   
+3. [Chess game](#https://github.com/Triba1-Chief/Code_Demos/blob/main/Chess_game.zip)  
    *Simulate and analyze the movements and interactions of various chess pieces.*
    
-4. Gus the Caterpillar  
+4. Gus the Caterpillar 
    *Experience the transformative journey of Gus from a caterpillar to a butterfly.*
    
-5. NecroNav  
+5. [NecroNav](https://github.com/Triba1-Chief/Code_Demos/blob/main/NecroNav.zip)  
    *Navigate a post-apocalyptic world with NecroNav, a survival app that maps safe routes, avoids zombies, and ensures resourceful scavenging*
 
 
